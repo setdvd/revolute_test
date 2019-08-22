@@ -35,7 +35,7 @@ If no env var will be provided it will use mock api
 
 ## Notes
 
-It was completed using TypeScript + React + Redux using TDD with acceptance tests and minimum required implementation to satisfy tests;
+It was completed using TypeScript + React + Redux using TDD with acceptance tests and minimum required implementation to satisfy tests (test is collocated with the app so tests are in App.test.tsx);
 
 During styling I have try to match Revolute web page UI but referencing functionality from the iOS app;  
 

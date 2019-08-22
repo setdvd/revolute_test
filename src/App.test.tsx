@@ -1,7 +1,7 @@
-import Enzyme from "enzyme";
+import * as Enzyme from "enzyme";
 import {mount as renderer} from "enzyme";
 import Adapter from "enzyme-adapter-react-16";
-import React from "react";
+import * as React from "react";
 import {Provider} from "react-redux";
 import {applyMiddleware, createStore} from "redux";
 import thunk from "redux-thunk";
