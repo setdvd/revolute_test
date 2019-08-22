@@ -3,14 +3,12 @@
 After clone:
 
 ```
-cd ./exchange
 yarn
 ```
 
 or if using npm
  
 ```
-cd ./exchange
 npm install
 ```
 
