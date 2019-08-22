@@ -18,7 +18,7 @@ npm install
 yarn start
 # run linter
 yarn lint
-# run tests
+# run tests, test a runing in a watch mode by default so you maybe need to press a after first run
 yarn test
 ```
 
